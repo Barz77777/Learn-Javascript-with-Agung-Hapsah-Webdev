@@ -21,17 +21,17 @@ Each folder contains code, exercises, and notes based on the lessons taught by *
 ---
 
 ## 🗂️ Repository Structure
-Learn-Javascript-with-Agung-Hapsah-Webdev/
-├── 01-introduction/
-│ ├── hello-world.js
-│ └── notes.md
-├── 02-variables-and-data-types/
-│ ├── variables.js
-│ └── notes.md
-├── 03-functions/
-│ ├── function-basics.js
-│ └── notes.md
-└── README.md
+- Learn-Javascript-with-Agung-Hapsah-Webdev/
+- ├── 01-introduction/
+- │ ├── hello-world.js
+- │ └── notes.md
+- ├── 02-variables-and-data-types/
+- │ ├── variables.js
+- │ └── notes.md
+- ├── 03-functions/
+- │ ├── function-basics.js
+- │ └── notes.md
+- └── README.md
 ---
 
 ## ⚙️ How to Run the Code
