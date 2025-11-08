@@ -32,6 +32,7 @@ Learn-Javascript-with-Agung-Hapsah-Webdev/
 │ ├── function-basics.js
 │ └── notes.md
 └── README.md
+---
 
 ## ⚙️ How to Run the Code
 
@@ -44,6 +45,8 @@ Learn-Javascript-with-Agung-Hapsah-Webdev/
 3. **Or open the file directly in your browser’s console**
 For quick examples, you can copy the code and run it inside Chrome DevTools.
 
+---
+
 **🌱 Learning Goals**
 - Understand JavaScript fundamentals
 - Strengthen problem-solving & logic
@@ -52,6 +55,8 @@ For quick examples, you can copy the code and run it inside Chrome DevTools.
 - Build small interactive projects
 - Develop consistent coding habits
 
+---
+
 **💬 Credits**
 All credit goes to **[Agung Hapsah (Webdev Channel)](https://youtube.com/@web_dev_id?si=59oUVdR1AGdbS6Tl)** for creating such an inspiring JavaScript course.
 *⚠️ This repository exists purely for educational and documentation purposes.*
@@ -59,6 +64,6 @@ All credit goes to **[Agung Hapsah (Webdev Channel)](https://youtube.com/@web_de
 
 **💭 Personal Notes**
 
-“Every line of code is a small victory — and every bug is just a teacher in disguise.”
+> *“Every line of code is a small victory — and every bug is just a teacher in disguise.”*
 — Inspired by Agung Hapsah & the Webdev community
-    This repo helps me stay consistent and track my progress as I grow as a web developer.
+    *This repo helps me stay consistent and track my progress as I grow as a web developer.*
