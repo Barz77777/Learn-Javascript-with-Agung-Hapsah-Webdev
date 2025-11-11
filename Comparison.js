@@ -42,7 +42,7 @@ if (empat) {
 //3. 'cab' === 'cba'
 //4. false === false
 
-const lima = 'abc' === 'abc'
+const lima = 'abcd' === 'abcd'
 const enam = false !== true
 const tujuh = -'cab' === 'cba'
 const delapan = false === false
